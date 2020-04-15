@@ -39,7 +39,14 @@ Run both Blocace and the UI locally
 7. In the same terminal, edit the 4th line of `./src/actions/index.js` by replacing `'https', 'www.blocace.com', '16899'` with `'http', 'localhost', '6899'`
 8. Run `npm install`
 9. Run `npm start` to start a dev server at http://localhost:3000
-W
+
+## Major Dependencies
+
+* [React](https://reactjs.org/)
+* [React-Redux](https://react-redux.js.org/)
+* [reactstrap](https://reactstrap.github.io/)
+* [blocace-js](https://github.com/codingpeasant/blocace-js)
+
 ## File Structure
 
 Within the download you'll find the following directories and files:
